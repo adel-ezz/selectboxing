@@ -7,6 +7,7 @@
 please follow these steps ..
 -----
 be sure you install mysql and php7 in you device
+<b>
 1-composer install
 <br>
 2-create empty data base and go to .env file and put database username+password(you can find copy of this file .env.example just rename it)
@@ -18,6 +19,8 @@ be sure you install mysql and php7 in you device
 http://127.0.0.1:8000/
 <br>
 5- Go to registration and make your own account and you will redirect to app directly
+    <br>
+    
 For Test
 -----
 if you have windows you can put this command in terminal to run unit test
